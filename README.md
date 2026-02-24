@@ -10,5 +10,5 @@ check password strength or generate secure passwords.
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/password_guard.git
+git clone https://github.com/qiu25/password_guard.git
 cd password_guard
